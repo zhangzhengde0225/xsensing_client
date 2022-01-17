@@ -19,7 +19,7 @@ EMAIL = 'drivener@163.com'
 AUTHOR = 'Zhengde Zhang, XXX'
 REQUIRES_PYTHON = '>=3.6.0'
 
-with open('damei/version.py') as f:
+with open('xsensing_client/version.py') as f:
 	data = f.readlines()
 VERSION = eval(data[0].split('=')[-1].strip())
 print(f'Installing xsensing_client, version: {VERSION}')

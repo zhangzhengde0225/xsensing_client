@@ -44,6 +44,6 @@ uaic.scan(pipeline=None)  # 窥视指定管道的输出。
 
 # 3 详细文档
 
-[客户端文档](https://github.com/zhangzhengde0225/xsensing_client/blob/master/docs/client_doc.md)
+[UAIC详细文档](https://github.com/zhangzhengde0225/xsensing_client/blob/master/docs/client_doc.md)
 
 

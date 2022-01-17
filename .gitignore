@@ -1,1 +1,4 @@
 main.py
+build
+dist
+xsensing_client.egg-info
